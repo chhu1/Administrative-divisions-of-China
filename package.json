@@ -7,8 +7,7 @@
     "test": "eslint . && mocha -t 5000",
     "fetch": "node lib/fetch.js && npm test",
     "csv": "./export_csv.sh",
-    "json": "./export_json.sh",
-    "precommit": "npm test"
+    "json": "./export_json.sh"
   },
   "repository": {
     "type": "git",
