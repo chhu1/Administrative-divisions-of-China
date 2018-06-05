@@ -106,6 +106,12 @@ $ npm test
   9 passing (37ms)
 ```
 
+## JSON更新
+
+```
+$ npm run build
+```
+
 ## 数据库支持
 
 目前本项目抓取的数据保存在 sqlite3，数据文件下载：[data.sqlite](https://github.com/modood/Administrative-divisions-of-China/blob/master/dist/data.sqlite)。

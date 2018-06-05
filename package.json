@@ -6,6 +6,7 @@
   "scripts": {
     "test": "eslint . && mocha -t 5000",
     "fetch": "node lib/fetch.js && npm test",
+    "build": "node lib/build.js",
     "csv": "./export_csv.sh",
     "json": "./export_json.sh"
   },
