@@ -112,6 +112,13 @@ $ npm test
 $ npm run build
 ```
 
+## PCAM JSON更新(三级联动的商城数据)
+
+```
+$ npm run dist
+```
+
+
 ## 数据库支持
 
 目前本项目抓取的数据保存在 sqlite3，数据文件下载：[data.sqlite](https://github.com/modood/Administrative-divisions-of-China/blob/master/dist/data.sqlite)。
